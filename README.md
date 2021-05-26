@@ -7,7 +7,6 @@
 - Fun fact #1: **Apart from Developer, I'm an Engineer and an Adman** :tophat:
 - Fun fact #2: **I'm passionate about science and technology** :computer:
 - Fun fact #3: **I like to play the bass** :guitar:
-- Fun fact #4: **I'm a follower of Jesus** ✞
 
 ### Languages and Tools:
 <p align="left">
