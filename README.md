@@ -1,6 +1,6 @@
 <h1 align="left">Greetings! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Ricardo</h1>
 
-### I'm a Forever Student
+### Full Stack Developer
 - I'm currently studying at Lighthouse Labs in the immersive Web Development Bootcamp
 - I live in the beautiful city of Calgary/AB 🇨🇦 
 - I'm from the also beautiful city of Maringá/PR 🇧🇷
