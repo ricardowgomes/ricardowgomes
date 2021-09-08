@@ -29,6 +29,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
 </p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardowgomes&theme=nord&show_icons=true)
+
 <img src="https://github-readme-stats.vercel.app/api?username=ricardowgomes&show_icons=true" alt="ricardowgomes"/> 
 
 <p align="left"> Connect with me:
