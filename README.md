@@ -2,7 +2,7 @@
 
 ### Full Stack Developer
 - ⚙️ . I studied **Civil Engineering** for my undergrad and Full Stack **Web Development** at Lighthouse Labs.
-- 📍 . **Calgary/AB** 🇨🇦 . from **Maringá/PR** 🇧🇷
+- 📍 . **Calgary/AB** 🇨🇦 . 🏠. **Maringá/PR** 🇧🇷
 - 🤓 . I'm passionate about **science and technology** :computer:
 
 ---
