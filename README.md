@@ -1,7 +1,7 @@
 <h1 align="left">Greetings! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Ricardo</h1>
 
 ### Full Stack Developer
-- I'm currently studying at Lighthouse Labs in the immersive Web Development Bootcamp
+- I studied Civil Engineering for my undergrad ⚙️ and Full Stack Web Development at Lighthouse Labs.
 - I live in the beautiful city of Calgary/AB 🇨🇦 
 - I'm from the also beautiful city of Maringá/PR 🇧🇷
 - Fun fact #1: **Apart from Developer, I'm an Engineer and an Adman** :tophat:
