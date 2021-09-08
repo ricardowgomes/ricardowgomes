@@ -2,11 +2,8 @@
 
 ### Full Stack Developer
 - I studied Civil Engineering for my undergrad ⚙️  and Full Stack Web Development at Lighthouse Labs.
-- I live in the beautiful city of Calgary/AB 🇨🇦 
-- I'm from the also beautiful city of Maringá/PR 🇧🇷
-- Fun fact #1: **Apart from Developer, I'm an Engineer and an Adman** :tophat:
-- Fun fact #2: **I'm passionate about science and technology** :computer:
-- Fun fact #3: **I like to play the bass** :guitar:
+- I currently live in the beautiful city of Calgary/AB 🇨🇦  and before that Maringá/PR 🇧🇷
+- I'm passionate about science and technology** :computer:
 
 ### Languages and Tools:
 <p align="left">
