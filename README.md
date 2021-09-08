@@ -1,7 +1,8 @@
 <h1 align="left">Greetings! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Ricardo</h1>
 
 ### Full Stack Developer
-- ⚙️ . I studied **Civil Engineering** for my undergrad and Full Stack **Web Development** at Lighthouse Labs
+- 🎓. Full Stack **Web Development** at [Lighthouse Labs](https://www.lighthouselabs.ca/)
+- 🎓. **Civil Engineering** at [Unicesumar](https://www.unicesumar.edu.br/)
 - 📍 . **Calgary/AB** 🇨🇦  
 - 🏠 . **Maringá/PR** 🇧🇷
 - 🤓 . I'm passionate about **science and technology** :computer:
