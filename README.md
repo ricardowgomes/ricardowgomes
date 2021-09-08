@@ -39,6 +39,6 @@
 <p align="left"> Connect with me:
 <a href="https://ricardowgomes.tech" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="ricardowgomes" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/ricardowgomes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ricardowgomes" height="20" width="20" /></a>
-<a href="https://fb.com/ricardowgomes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ricardowgomes" height="20" width="20" /></a>
+<a href="https://fb.com/ricardowgomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="ricardowgomes" height="20" width="20" /></a>
 <a href="https://instagram.com/ricardowgomes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ricardowgomes" height="20" width="20" /></a>
 </p>
