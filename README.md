@@ -29,9 +29,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
 </p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardowgomes&theme=nord&show_icons=true)
-
-<img src="https://github-readme-stats.vercel.app/api?username=ricardowgomes&show_icons=true" alt="ricardowgomes"/> 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardowgomes&theme=nord&show_icons=true)
 
 <p align="left"> Connect with me:
 <a href="https://ricardowgomes.tech" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="ricardowgomes" height="20" width="20" /></a>
