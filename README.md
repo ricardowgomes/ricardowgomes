@@ -2,9 +2,10 @@
 
 ### Full Stack Developer
 - ⚙️ I studied **Civil Engineering** for my undergrad and Full Stack **Web Development** at Lighthouse Labs.
-- 📍 **Calgary/AB** 🇨🇦 
-- � from **Maringá/PR** 🇧🇷
+- 📍 **Calgary/AB** 🇨🇦  from **Maringá/PR** 🇧🇷
 - 🤓 I'm passionate about **science and technology** :computer:
+
+---
 
 ### Languages and Tools:
 <p align="left">
@@ -27,7 +28,11 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="50" height="50"/>
 </p>
 
+---
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardowgomes&theme=nord&show_icons=true)
+
+---
 
 <p align="left"> Connect with me:
 <a href="https://ricardowgomes.tech" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Globe_icon.svg" alt="ricardowgomes" height="20" width="20" /></a>
