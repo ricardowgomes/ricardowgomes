@@ -33,6 +33,7 @@
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardowgomes&theme=nord&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardowgomes&layout=compact&theme=nord) 
 
 ---
 
