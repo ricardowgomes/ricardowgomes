@@ -32,12 +32,6 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardowgomes&theme=nord&show_icons=true)
-</br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardowgomes&langs_count=8&theme=nord&layout=compact)
-
----
-
 <p align="left"> Connect with me:
 <a href="https://ricardowgomes.tech" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/archive/5/58/20170115190626%21Echo_link-blue_icon_slanted.svg" alt="ricardowgomes" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/ricardowgomes" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="ricardowgomes" height="20" width="20" /></a>
