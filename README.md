@@ -7,6 +7,7 @@
 - 🏠 . **Maringá/PR** 🇧🇷
 - 🤓 . I'm passionate about **science and technology** :computer:
 
+
 ---
 
 ### Languages and Tools:
