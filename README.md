@@ -1,4 +1,4 @@
-<h1 align="left">Greetings! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"> I'm Ricardo</h1>
+<h1 align="left">Greetings! 👋 I'm Ricardo</h1>
 
 ### I'm a Full Stack Developer
 - 🎓. Dipl. Full Stack **Web Development** at <a href="https://www.lighthouselabs.ca/" target="_blank">Lighthouse Labs</a>
